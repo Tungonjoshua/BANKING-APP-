@@ -1,0 +1,14 @@
+login Algorithm
+STEP 1:
+Define the main function to initiate the login process.
+Define the welcome function to call the welcome screen.py script.
+STEP 2:
+Print a welcome message for the bank login.
+Prompt the user to enter their phone number and password.
+STEP 3:
+Print an "Authenticating..." message to simulate the authentication process.
+Placeholder for actual authentication logic (to be implemented later).
+STEP 4:
+If authentication is successful, call the welcome function to execute the welcome screen.py script.
+STEP 5:
+Define the __main__ block to call the main function, initiating the login process.
