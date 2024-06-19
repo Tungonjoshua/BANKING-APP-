@@ -1,0 +1,8 @@
+WELCOME screen ALGORITHM
+STEP 1:
+Define the main function to handle the initial welcome message and user prompt.
+Display a welcome message for the bank.
+Wait for the user to press Enter to continue.
+Call the banking.py script using subprocess.call.
+STEP 2:
+Ensure the main function is executed when the script is run directly by using the if __name__ == "__main__": main() construct.
